@@ -1,5 +1,5 @@
 # Spring Data REST and JPA Example
-This project depicts the Spring Boot Example with Spring Data REST and JPA Example
+This project depict the Spring Boot Example with Spring Data REST and JPA Example
 
 ## Description
 This Project shows the list of Users which are stored in the In-Memory H2 Database. Using the following endpoints, different operations can be achieved:
@@ -20,3 +20,5 @@ This Project shows the list of Users which are stored in the In-Memory H2 Databa
 
 ## Compilation Command
 - `mvn clean install` - Plain maven clean and install
+
+## Learning mode
